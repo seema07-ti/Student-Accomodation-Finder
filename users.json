@@ -1,0 +1,1502 @@
+[
+    {
+        "username": "admin",
+        "password": "$2b$12$6O0aXHkhWaWiLpv7QjHaeeab/sNT/lu.NIpfiLZDgX/RSF7ueWb/O",
+        "name": "System Admin",
+        "email": "admin@example.com",
+        "role": "admin",
+        "linked_id": null,
+        "active": true,
+        "created_at": {
+            "$date": "2024-09-01T00:00:00Z"
+        }
+    },
+    {
+        "username": "accommodation.manager",
+        "password": "$2b$12$RLShNSoRUeupZmr7QAcVVeRmids3GzRc1ho9AZK56DZW6vTenShzu",
+        "name": "Accommodation Manager",
+        "email": "manager@example.com",
+        "role": "admin",
+        "linked_id": null,
+        "active": true,
+        "created_at": {
+            "$date": "2024-09-01T00:00:00Z"
+        }
+    },
+    {
+        "username": "niamh.nowak1@example.com",
+        "password": "$2b$12$ZgS7vf3YvoHM0haElebT1e0/EFwV0cj/Wc7.KgRRlN7D.AQ3lX.T6",
+        "name": "Niamh Nowak",
+        "email": "niamh.nowak1@example.com",
+        "role": "student",
+        "linked_id": "STU001",
+        "active": true,
+        "created_at": {
+            "$date": "2026-05-16T15:22:41Z"
+        }
+    },
+    {
+        "username": "emma.nowak2@example.com",
+        "password": "$2b$12$Z8ZmsCfzHpx6uPzfcI/wf.jFwaWEcDP8FZvFqXmR5KZ00izEhAnuW",
+        "name": "Emma Nowak",
+        "email": "emma.nowak2@example.com",
+        "role": "student",
+        "linked_id": "STU002",
+        "active": true,
+        "created_at": {
+            "$date": "2026-06-15T03:15:18Z"
+        }
+    },
+    {
+        "username": "fatima.gallagher3@example.com",
+        "password": "$2b$12$dt2w8yuPCE4UfeBkqorUjO2Tmt909qX6Bi8I26TYOIoq2yZ48pb0m",
+        "name": "Fatima Gallagher",
+        "email": "fatima.gallagher3@example.com",
+        "role": "student",
+        "linked_id": "STU003",
+        "active": true,
+        "created_at": {
+            "$date": "2026-01-03T02:25:12Z"
+        }
+    },
+    {
+        "username": "sophie.smith5@example.com",
+        "password": "$2b$12$Cr1N4zAJRaRTCfcqwod4/uStIxR00kjimQg3CwSJ2xOVR.TTXZDj6",
+        "name": "Sophie Smith",
+        "email": "sophie.smith5@example.com",
+        "role": "student",
+        "linked_id": "STU005",
+        "active": true,
+        "created_at": {
+            "$date": "2025-12-13T10:30:58Z"
+        }
+    },
+    {
+        "username": "arjun.gallagher6@example.com",
+        "password": "$2b$12$GZwBHSkQQIE0.Lt.lslXAe/RnNmulO22LoYVHplxVKptdw7ieq8jG",
+        "name": "Arjun Gallagher",
+        "email": "arjun.gallagher6@example.com",
+        "role": "student",
+        "linked_id": "STU006",
+        "active": true,
+        "created_at": {
+            "$date": "2026-06-09T00:08:28Z"
+        }
+    },
+    {
+        "username": "priya.patel7@example.com",
+        "password": "$2b$12$7ihsbHnxlwLb.FjX4PZs4.NzvXdWT5u7ga9c/aQxxc0.R89xNSnHC",
+        "name": "Priya Patel",
+        "email": "priya.patel7@example.com",
+        "role": "student",
+        "linked_id": "STU007",
+        "active": true,
+        "created_at": {
+            "$date": "2025-06-20T21:11:09Z"
+        }
+    },
+    {
+        "username": "grace.smith8@example.com",
+        "password": "$2b$12$bTInvjgCKOKuFVJ2NhhdcuMEp/fhrWJYYV3QvlfKJLsZpatXhIpAS",
+        "name": "Grace Smith",
+        "email": "grace.smith8@example.com",
+        "role": "student",
+        "linked_id": "STU008",
+        "active": true,
+        "created_at": {
+            "$date": "2024-11-24T04:31:07Z"
+        }
+    },
+    {
+        "username": "emma.quinn9@example.com",
+        "password": "$2b$12$LCraR3B6ki.rJgmBqP/vW.ba18uLTQT7E5vkikoysZE1vL..1XL1a",
+        "name": "Emma Quinn",
+        "email": "emma.quinn9@example.com",
+        "role": "student",
+        "linked_id": "STU009",
+        "active": true,
+        "created_at": {
+            "$date": "2026-02-14T23:53:28Z"
+        }
+    },
+    {
+        "username": "priya.hughes10@example.com",
+        "password": "$2b$12$Fbzl7XAAXerWgYrUys5g/u0IZUNKy8oUQ8Y/fDFUsHiyTKWyn9Ulq",
+        "name": "Priya Hughes",
+        "email": "priya.hughes10@example.com",
+        "role": "student",
+        "linked_id": "STU010",
+        "active": false,
+        "created_at": {
+            "$date": "2026-04-10T20:34:42Z"
+        }
+    },
+    {
+        "username": "patrick.oneill11@example.com",
+        "password": "$2b$12$xUO8fYQl6XjRblhAi9wgquJbq5HMY185BPuNMdkMDPWNLCpLPO1rK",
+        "name": "Patrick O'Neill",
+        "email": "patrick.oneill11@example.com",
+        "role": "student",
+        "linked_id": "STU011",
+        "active": true,
+        "created_at": {
+            "$date": "2024-12-05T08:25:13Z"
+        }
+    },
+    {
+        "username": "niamh.mccann12@example.com",
+        "password": "$2b$12$KPVfSDCi0FpvcxXxcxLDVegX5wGGLW5X1d.YK4tSApVLJQitzlih6",
+        "name": "Niamh McCann",
+        "email": "niamh.mccann12@example.com",
+        "role": "student",
+        "linked_id": "STU012",
+        "active": true,
+        "created_at": {
+            "$date": "2025-06-17T04:06:39Z"
+        }
+    },
+    {
+        "username": "niamh.murphy13@example.com",
+        "password": "$2b$12$6poQixRnDISbBjsZ8bJ.neAuwAF5WPlJzP4fFgFBXX5YPaxQ0nxs2",
+        "name": "Niamh Murphy",
+        "email": "niamh.murphy13@example.com",
+        "role": "student",
+        "linked_id": "STU013",
+        "active": true,
+        "created_at": {
+            "$date": "2025-05-17T06:13:30Z"
+        }
+    },
+    {
+        "username": "jack.patel14@example.com",
+        "password": "$2b$12$3oZVSEvsFgqrC7tapsWOj.g4CmoNjtqQzs05USdqjI0nVp03Op81G",
+        "name": "Jack Patel",
+        "email": "jack.patel14@example.com",
+        "role": "student",
+        "linked_id": "STU014",
+        "active": true,
+        "created_at": {
+            "$date": "2026-02-19T22:22:10Z"
+        }
+    },
+    {
+        "username": "ryan.sharma15@example.com",
+        "password": "$2b$12$6cVRmcNuA9GvkK7Pfb6VkeW6AM7HyHG69j0Fu2N2zXiG/0t37kml.",
+        "name": "Ryan Sharma",
+        "email": "ryan.sharma15@example.com",
+        "role": "student",
+        "linked_id": "STU015",
+        "active": true,
+        "created_at": {
+            "$date": "2026-02-04T02:17:07Z"
+        }
+    },
+    {
+        "username": "emma.sharma16@example.com",
+        "password": "$2b$12$SJDSkljcLHEdJC0aDkTwSOcDC0BlC5QsoXZdFvJpA2ApmuJd4HWyG",
+        "name": "Emma Sharma",
+        "email": "emma.sharma16@example.com",
+        "role": "student",
+        "linked_id": "STU016",
+        "active": false,
+        "created_at": {
+            "$date": "2026-04-22T20:33:30Z"
+        }
+    },
+    {
+        "username": "orla.gallagher17@example.com",
+        "password": "$2b$12$ey5UlFnSAXrPezc5dgHDy.L.u95U8n0pJOY4BY62ysTPyTzLEYHia",
+        "name": "Orla Gallagher",
+        "email": "orla.gallagher17@example.com",
+        "role": "student",
+        "linked_id": "STU017",
+        "active": true,
+        "created_at": {
+            "$date": "2025-04-21T05:13:57Z"
+        }
+    },
+    {
+        "username": "aoife.doherty18@example.com",
+        "password": "$2b$12$mTqPSDgXaT2NxZfCXBdM3.L0DNqYTCsXO2O2Dfp7ivO/dw.EVTgx6",
+        "name": "Aoife Doherty",
+        "email": "aoife.doherty18@example.com",
+        "role": "student",
+        "linked_id": "STU018",
+        "active": true,
+        "created_at": {
+            "$date": "2025-10-16T02:31:36Z"
+        }
+    },
+    {
+        "username": "ciara.gallagher19@example.com",
+        "password": "$2b$12$.pQevOXR97B107r0oZRH8ef15mBbpKEA57utiHYJTK0W8/wHzuhGm",
+        "name": "Ciara Gallagher",
+        "email": "ciara.gallagher19@example.com",
+        "role": "student",
+        "linked_id": "STU019",
+        "active": true,
+        "created_at": {
+            "$date": "2026-03-19T08:04:37Z"
+        }
+    },
+    {
+        "username": "arjun.sharma20@example.com",
+        "password": "$2b$12$r7fBS.QVZFh.Y5g./T6Q3OxMYOb41.UnKNUPlm4hSMASy62gf661S",
+        "name": "Arjun Sharma",
+        "email": "arjun.sharma20@example.com",
+        "role": "student",
+        "linked_id": "STU020",
+        "active": true,
+        "created_at": {
+            "$date": "2025-11-14T11:12:36Z"
+        }
+    },
+    {
+        "username": "priya.doherty21@example.com",
+        "password": "$2b$12$14wSg9SDBE3wbHhEjGYrfO44NiakRqWjRju23Q6S/nm07H1FmU5DS",
+        "name": "Priya Doherty",
+        "email": "priya.doherty21@example.com",
+        "role": "student",
+        "linked_id": "STU021",
+        "active": true,
+        "created_at": {
+            "$date": "2025-08-09T01:53:59Z"
+        }
+    },
+    {
+        "username": "james.hughes22@example.com",
+        "password": "$2b$12$nzFiwcGiC7ndNLkrZHOy9uz2Snp9BOYZjGx.D/zsJOyQyjWNHyRzC",
+        "name": "James Hughes",
+        "email": "james.hughes22@example.com",
+        "role": "student",
+        "linked_id": "STU022",
+        "active": true,
+        "created_at": {
+            "$date": "2025-05-23T15:56:53Z"
+        }
+    },
+    {
+        "username": "ciara.brown23@example.com",
+        "password": "$2b$12$WX/BHNbXJTt/DxxePILAZOS2pM56rsTrPR85OwO5nl9wCpwPssIDm",
+        "name": "Ciara Brown",
+        "email": "ciara.brown23@example.com",
+        "role": "student",
+        "linked_id": "STU023",
+        "active": true,
+        "created_at": {
+            "$date": "2026-03-08T10:46:09Z"
+        }
+    },
+    {
+        "username": "liam.kelly24@example.com",
+        "password": "$2b$12$SSXVQj4WTt760TwwqQilrO/papJbse2GhYhaiz0A/JVL.z7aK0Heu",
+        "name": "Liam Kelly",
+        "email": "liam.kelly24@example.com",
+        "role": "student",
+        "linked_id": "STU024",
+        "active": true,
+        "created_at": {
+            "$date": "2025-11-21T15:39:16Z"
+        }
+    },
+    {
+        "username": "ryan.kelly25@example.com",
+        "password": "$2b$12$3ATZ0sCND3cY7zCZFpsNYOUU6vuinFudsmOtKRGbTeX3WetT.hRqa",
+        "name": "Ryan Kelly",
+        "email": "ryan.kelly25@example.com",
+        "role": "student",
+        "linked_id": "STU025",
+        "active": false,
+        "created_at": {
+            "$date": "2026-08-07T01:56:42Z"
+        }
+    },
+    {
+        "username": "erin.murphy26@example.com",
+        "password": "$2b$12$YdOvtNNgb2uXRQd560M4CeJy5/PqKB3SYkCTLsdDOtkK75gZ.Xfm.",
+        "name": "Erin Murphy",
+        "email": "erin.murphy26@example.com",
+        "role": "student",
+        "linked_id": "STU026",
+        "active": true,
+        "created_at": {
+            "$date": "2026-05-11T02:14:59Z"
+        }
+    },
+    {
+        "username": "fatima.mccann27@example.com",
+        "password": "$2b$12$x2Rzga3XuomttMdU9d7zgOa440Zh3Ug4sKbZoTOqqUKsKD3Ls1QP.",
+        "name": "Fatima McCann",
+        "email": "fatima.mccann27@example.com",
+        "role": "student",
+        "linked_id": "STU027",
+        "active": true,
+        "created_at": {
+            "$date": "2025-02-09T20:30:12Z"
+        }
+    },
+    {
+        "username": "sean.murphy28@example.com",
+        "password": "$2b$12$COM9jhnaCDt5MTTHYj5EWeL67Q6LuJsCbp3Ure.IjUftAiGJP0E3i",
+        "name": "Sean Murphy",
+        "email": "sean.murphy28@example.com",
+        "role": "student",
+        "linked_id": "STU028",
+        "active": true,
+        "created_at": {
+            "$date": "2026-09-15T10:41:52Z"
+        }
+    },
+    {
+        "username": "arjun.gallagher29@example.com",
+        "password": "$2b$12$gNDW8VhSEqlKSptbTgI8vOigZkFnqP9Ut/jRrJonBd7.eiJX6jjBa",
+        "name": "Arjun Gallagher",
+        "email": "arjun.gallagher29@example.com",
+        "role": "student",
+        "linked_id": "STU029",
+        "active": true,
+        "created_at": {
+            "$date": "2026-05-09T16:52:23Z"
+        }
+    },
+    {
+        "username": "ciara.oneill30@example.com",
+        "password": "$2b$12$BNcT7X93ru39XTE30mZE9ORyVxSfkENXEL1SZJa7YQjKDkna6/o7.",
+        "name": "Ciara O'Neill",
+        "email": "ciara.oneill30@example.com",
+        "role": "student",
+        "linked_id": "STU030",
+        "active": true,
+        "created_at": {
+            "$date": "2026-08-31T21:51:57Z"
+        }
+    },
+    {
+        "username": "jack.murphy31@example.com",
+        "password": "$2b$12$nnWa/2CqJf7eVts3LGBgJ.jfp.lWcmYGMnv0aoTBKIRVDS2a6QVAm",
+        "name": "Jack Murphy",
+        "email": "jack.murphy31@example.com",
+        "role": "student",
+        "linked_id": "STU031",
+        "active": false,
+        "created_at": {
+            "$date": "2025-07-06T00:15:45Z"
+        }
+    },
+    {
+        "username": "priya.nowak32@example.com",
+        "password": "$2b$12$r7XFzIfKwKULJ8Mq2AuUCeIauEPndzFQ2jXgCqm.hdwvUCLv/CSAa",
+        "name": "Priya Nowak",
+        "email": "priya.nowak32@example.com",
+        "role": "student",
+        "linked_id": "STU032",
+        "active": true,
+        "created_at": {
+            "$date": "2025-04-24T01:37:21Z"
+        }
+    },
+    {
+        "username": "erin.wilson34@example.com",
+        "password": "$2b$12$I/BUXu2zN877KAkJ0unNKO2uEoaCtKkwwGyUJBe50dXqjUy6DHuuu",
+        "name": "Erin Wilson",
+        "email": "erin.wilson34@example.com",
+        "role": "student",
+        "linked_id": "STU034",
+        "active": true,
+        "created_at": {
+            "$date": "2025-12-22T00:53:09Z"
+        }
+    },
+    {
+        "username": "orla.murphy35@example.com",
+        "password": "$2b$12$dVtxrzxCRwtvC3Kq7iUKP.ptz9fBW96ZUz5JS5lwLNnokFcLM28tC",
+        "name": "Orla Murphy",
+        "email": "orla.murphy35@example.com",
+        "role": "student",
+        "linked_id": "STU035",
+        "active": true,
+        "created_at": {
+            "$date": "2024-11-08T10:49:32Z"
+        }
+    },
+    {
+        "username": "priya.doherty36@example.com",
+        "password": "$2b$12$DqahimXLKOyVxzatuWfLiODkqReXSP5.UZMHoHwYgZI/SJUK9lAHu",
+        "name": "Priya Doherty",
+        "email": "priya.doherty36@example.com",
+        "role": "student",
+        "linked_id": "STU036",
+        "active": true,
+        "created_at": {
+            "$date": "2026-09-08T20:11:53Z"
+        }
+    },
+    {
+        "username": "fatima.gallagher37@example.com",
+        "password": "$2b$12$gRcOjv3I8V7YQZjAiZJHKeyqy32./BCClMcCLZmecDuWQ9PtPAMuG",
+        "name": "Fatima Gallagher",
+        "email": "fatima.gallagher37@example.com",
+        "role": "student",
+        "linked_id": "STU037",
+        "active": false,
+        "created_at": {
+            "$date": "2026-09-05T23:38:52Z"
+        }
+    },
+    {
+        "username": "sophie.oneill38@example.com",
+        "password": "$2b$12$Lj1qTmWnXgfVJBEY2xS2TunXmBVXf5HNRwpJCMwXlzWymE.r6PXU2",
+        "name": "Sophie O'Neill",
+        "email": "sophie.oneill38@example.com",
+        "role": "student",
+        "linked_id": "STU038",
+        "active": true,
+        "created_at": {
+            "$date": "2025-10-31T11:34:28Z"
+        }
+    },
+    {
+        "username": "priya.gallagher39@example.com",
+        "password": "$2b$12$I0fzcdXhzZlL315AffOgHenbsXrpxfSw9SyC/b3tXpZEv86w4GNvi",
+        "name": "Priya Gallagher",
+        "email": "priya.gallagher39@example.com",
+        "role": "student",
+        "linked_id": "STU039",
+        "active": true,
+        "created_at": {
+            "$date": "2026-03-26T10:40:41Z"
+        }
+    },
+    {
+        "username": "fatima.nowak40@example.com",
+        "password": "$2b$12$s2vA5FzmLmykXndt0G9yeuvQUPeLP8Got8RX3nzCN4tTZFJNS/pWq",
+        "name": "Fatima Nowak",
+        "email": "fatima.nowak40@example.com",
+        "role": "student",
+        "linked_id": "STU040",
+        "active": true,
+        "created_at": {
+            "$date": "2025-04-01T13:13:47Z"
+        }
+    },
+    {
+        "username": "liam.sharma41@example.com",
+        "password": "$2b$12$E/R9PEUqadisndjk4sdZ1eC72aRPbf6PfjI7WWo44kz3fq935zC/O",
+        "name": "Liam Sharma",
+        "email": "liam.sharma41@example.com",
+        "role": "student",
+        "linked_id": "STU041",
+        "active": false,
+        "created_at": {
+            "$date": "2024-11-15T22:10:02Z"
+        }
+    },
+    {
+        "username": "tomasz.brown42@example.com",
+        "password": "$2b$12$K25QaCRrQxgdNqASBlE57OntUPDmHbDsR8oNIT1YO7YeBnxLwbB5m",
+        "name": "Tomasz Brown",
+        "email": "tomasz.brown42@example.com",
+        "role": "student",
+        "linked_id": "STU042",
+        "active": true,
+        "created_at": {
+            "$date": "2025-04-14T21:50:22Z"
+        }
+    },
+    {
+        "username": "arjun.patel43@example.com",
+        "password": "$2b$12$CJ9wh1eqKg/6nY.6ykk44umWVaHRC6KxDw8E4esh8XHAMibbLBtLS",
+        "name": "Arjun Patel",
+        "email": "arjun.patel43@example.com",
+        "role": "student",
+        "linked_id": "STU043",
+        "active": true,
+        "created_at": {
+            "$date": "2025-07-22T01:48:52Z"
+        }
+    },
+    {
+        "username": "fatima.patel44@example.com",
+        "password": "$2b$12$2uBU51q6UKjpgFmwUzDe.u.okeiKuzkFxvckpFLjq/ohyroQz8K0m",
+        "name": "Fatima Patel",
+        "email": "fatima.patel44@example.com",
+        "role": "student",
+        "linked_id": "STU044",
+        "active": true,
+        "created_at": {
+            "$date": "2025-05-21T15:55:09Z"
+        }
+    },
+    {
+        "username": "james.patel45@example.com",
+        "password": "$2b$12$BwA1KVhLMJdGx71PpIJM0.Vmd9bHfhehnDql6bWG6YSbq//IOq9hm",
+        "name": "James Patel",
+        "email": "james.patel45@example.com",
+        "role": "student",
+        "linked_id": "STU045",
+        "active": true,
+        "created_at": {
+            "$date": "2026-04-12T21:46:21Z"
+        }
+    },
+    {
+        "username": "fatima.hughes46@example.com",
+        "password": "$2b$12$EcNYBHoEFcFd9ItBzANL/OsKQHGXgQ6XlIIiCDCc9K3MNVZgpvOPW",
+        "name": "Fatima Hughes",
+        "email": "fatima.hughes46@example.com",
+        "role": "student",
+        "linked_id": "STU046",
+        "active": true,
+        "created_at": {
+            "$date": "2025-01-18T14:03:18Z"
+        }
+    },
+    {
+        "username": "aoife.nowak47@example.com",
+        "password": "$2b$12$q5IYuSiIok6rKaONOID.NOFwaBwMFzO0NgYEIF7s29whoEG1LGid.",
+        "name": "Aoife Nowak",
+        "email": "aoife.nowak47@example.com",
+        "role": "student",
+        "linked_id": "STU047",
+        "active": true,
+        "created_at": {
+            "$date": "2025-12-23T04:51:34Z"
+        }
+    },
+    {
+        "username": "fatima.doherty48@example.com",
+        "password": "$2b$12$H6yJiFJzfD8.LVQkTC1rae2Srm0gX98g3gaUnjEtzIfbvss/WHaHe",
+        "name": "Fatima Doherty",
+        "email": "fatima.doherty48@example.com",
+        "role": "student",
+        "linked_id": "STU048",
+        "active": true,
+        "created_at": {
+            "$date": "2026-02-13T15:48:47Z"
+        }
+    },
+    {
+        "username": "daniel.smith49@example.com",
+        "password": "$2b$12$tzrYWfkJEjqkehoEpNSLm.PbQlw2dQ9oJTKZ../7vva55sXydRJCC",
+        "name": "Daniel Smith",
+        "email": "daniel.smith49@example.com",
+        "role": "student",
+        "linked_id": "STU049",
+        "active": true,
+        "created_at": {
+            "$date": "2025-01-20T08:26:28Z"
+        }
+    },
+    {
+        "username": "ryan.gallagher50@example.com",
+        "password": "$2b$12$bh6w50f.2nGgc8KeHZj27.E2XsC0sDAqIAR5bYQVfZgw32rrdnSoa",
+        "name": "Ryan Gallagher",
+        "email": "ryan.gallagher50@example.com",
+        "role": "student",
+        "linked_id": "STU050",
+        "active": true,
+        "created_at": {
+            "$date": "2026-01-26T21:59:39Z"
+        }
+    },
+    {
+        "username": "fatima.murphy51@example.com",
+        "password": "$2b$12$IB5gXZmf.h92sBj4Hw/OGeZmYA4PRMFdnAHVQYc40sO5Ag448qv5e",
+        "name": "Fatima Murphy",
+        "email": "fatima.murphy51@example.com",
+        "role": "student",
+        "linked_id": "STU051",
+        "active": true,
+        "created_at": {
+            "$date": "2025-08-10T17:35:29Z"
+        }
+    },
+    {
+        "username": "grace.sharma52@example.com",
+        "password": "$2b$12$KdOC1r19Znx30cn3ISkMHect7S2lvHuwlxhuDxFeyPG9l9Av0dbh6",
+        "name": "Grace Sharma",
+        "email": "grace.sharma52@example.com",
+        "role": "student",
+        "linked_id": "STU052",
+        "active": true,
+        "created_at": {
+            "$date": "2026-03-17T11:27:29Z"
+        }
+    },
+    {
+        "username": "fatima.doherty53@example.com",
+        "password": "$2b$12$1u6oa1qq3jOYCsCTD7qGI.BtSovPZuKzlxQX1i34jiJ26HUTR8kRm",
+        "name": "Fatima Doherty",
+        "email": "fatima.doherty53@example.com",
+        "role": "student",
+        "linked_id": "STU053",
+        "active": true,
+        "created_at": {
+            "$date": "2025-09-20T04:38:00Z"
+        }
+    },
+    {
+        "username": "arjun.smith54@example.com",
+        "password": "$2b$12$bJLNH/xifCQnpPlegy3kgu//71FQIxhCJqSw8/dleayBw/CLymggy",
+        "name": "Arjun Smith",
+        "email": "arjun.smith54@example.com",
+        "role": "student",
+        "linked_id": "STU054",
+        "active": true,
+        "created_at": {
+            "$date": "2025-08-22T08:16:55Z"
+        }
+    },
+    {
+        "username": "tomasz.hughes55@example.com",
+        "password": "$2b$12$VPHRZHQ6u7Cv2au7U/.pp.o3sbDOd7ktWgCEWNvM0G4QG.KZ0yv52",
+        "name": "Tomasz Hughes",
+        "email": "tomasz.hughes55@example.com",
+        "role": "student",
+        "linked_id": "STU055",
+        "active": true,
+        "created_at": {
+            "$date": "2026-10-07T13:05:04Z"
+        }
+    },
+    {
+        "username": "fatima.doherty56@example.com",
+        "password": "$2b$12$7hMkpwau7h1mzVWYFFhcN.XcuTB5gfW.kSK42UxODRVidLyrunL5O",
+        "name": "Fatima Doherty",
+        "email": "fatima.doherty56@example.com",
+        "role": "student",
+        "linked_id": "STU056",
+        "active": true,
+        "created_at": {
+            "$date": "2025-01-24T02:48:31Z"
+        }
+    },
+    {
+        "username": "priya.mccann57@example.com",
+        "password": "$2b$12$GKzJVHhaHnmi38.scFSxaOguRnvGajU369OF9V45ALbsIITfE0MJS",
+        "name": "Priya McCann",
+        "email": "priya.mccann57@example.com",
+        "role": "student",
+        "linked_id": "STU057",
+        "active": false,
+        "created_at": {
+            "$date": "2025-07-28T08:02:12Z"
+        }
+    },
+    {
+        "username": "arjun.smith58@example.com",
+        "password": "$2b$12$FgI.SCSl/JjwjqhYcm7BWu311uSZv8etLtsdjttNUM7JkmCEpj8LW",
+        "name": "Arjun Smith",
+        "email": "arjun.smith58@example.com",
+        "role": "student",
+        "linked_id": "STU058",
+        "active": true,
+        "created_at": {
+            "$date": "2025-07-02T01:47:36Z"
+        }
+    },
+    {
+        "username": "patrick.nowak59@example.com",
+        "password": "$2b$12$gnlrBFr9RGldvgImUhF2JOvlOXty6vKpqd82f2.fBEm24JQSv7wRi",
+        "name": "Patrick Nowak",
+        "email": "patrick.nowak59@example.com",
+        "role": "student",
+        "linked_id": "STU059",
+        "active": false,
+        "created_at": {
+            "$date": "2024-12-15T21:49:27Z"
+        }
+    },
+    {
+        "username": "emma.wilson60@example.com",
+        "password": "$2b$12$o0itmehhp/10epQc.LMxCeVzQ.S5I.jSEoI0GEIrB1WKqC.nvaFJW",
+        "name": "Emma Wilson",
+        "email": "emma.wilson60@example.com",
+        "role": "student",
+        "linked_id": "STU060",
+        "active": true,
+        "created_at": {
+            "$date": "2025-04-01T03:45:00Z"
+        }
+    },
+    {
+        "username": "grace.nowak61@example.com",
+        "password": "$2b$12$T5uWAzv/n.8CEoQ/vxSR9ezlGYLuO6t4j6MYdnnMS8bbTNOcCqR1K",
+        "name": "Grace Nowak",
+        "email": "grace.nowak61@example.com",
+        "role": "student",
+        "linked_id": "STU061",
+        "active": true,
+        "created_at": {
+            "$date": "2026-09-22T15:57:38Z"
+        }
+    },
+    {
+        "username": "liam.thompson62@example.com",
+        "password": "$2b$12$t4X.TIIIItpzx/OuVoX1UOHqRs6T5jxB6LKUAmF/rvqKPqaLTOf4W",
+        "name": "Liam Thompson",
+        "email": "liam.thompson62@example.com",
+        "role": "student",
+        "linked_id": "STU062",
+        "active": false,
+        "created_at": {
+            "$date": "2026-04-25T19:11:56Z"
+        }
+    },
+    {
+        "username": "emma.nowak63@example.com",
+        "password": "$2b$12$bRdDe9u4nC6x0Mo3231aSuyyvw0/E4EGmw8ztvQD0KilKQd7AAaOa",
+        "name": "Emma Nowak",
+        "email": "emma.nowak63@example.com",
+        "role": "student",
+        "linked_id": "STU063",
+        "active": false,
+        "created_at": {
+            "$date": "2025-08-08T17:53:38Z"
+        }
+    },
+    {
+        "username": "priya.smith64@example.com",
+        "password": "$2b$12$wU/xTWN9Sf73fmXy2TeHcu3V0/gmd9SzcPUXOdrGGzyLVX2F92fGe",
+        "name": "Priya Smith",
+        "email": "priya.smith64@example.com",
+        "role": "student",
+        "linked_id": "STU064",
+        "active": true,
+        "created_at": {
+            "$date": "2026-09-27T17:05:49Z"
+        }
+    },
+    {
+        "username": "jack.quinn65@example.com",
+        "password": "$2b$12$I0acSSxkQdpFMCD9f3lnMe04UQYP2lCxBb6xN/spJVFekTzX/g/ZC",
+        "name": "Jack Quinn",
+        "email": "jack.quinn65@example.com",
+        "role": "student",
+        "linked_id": "STU065",
+        "active": false,
+        "created_at": {
+            "$date": "2025-10-02T15:30:22Z"
+        }
+    },
+    {
+        "username": "liam.hughes66@example.com",
+        "password": "$2b$12$lKChlsOlBY7hfTusYL8tK.vsFKafrS7GfaBSRxXFTuFTsEZuAwaJa",
+        "name": "Liam Hughes",
+        "email": "liam.hughes66@example.com",
+        "role": "student",
+        "linked_id": "STU066",
+        "active": false,
+        "created_at": {
+            "$date": "2026-01-31T16:17:19Z"
+        }
+    },
+    {
+        "username": "fatima.quinn67@example.com",
+        "password": "$2b$12$6BsN7NcB0oaH5cspQqSLWudvcSsayyfPSYLIBb4ciYvbn1yV6MbGS",
+        "name": "Fatima Quinn",
+        "email": "fatima.quinn67@example.com",
+        "role": "student",
+        "linked_id": "STU067",
+        "active": true,
+        "created_at": {
+            "$date": "2026-09-03T13:31:33Z"
+        }
+    },
+    {
+        "username": "emma.murphy68@example.com",
+        "password": "$2b$12$OHWALcj9qhS8eSxOnE5Xp./NvR1wua2aV6gUaHYVDOjNwxrrL8AuC",
+        "name": "Emma Murphy",
+        "email": "emma.murphy68@example.com",
+        "role": "student",
+        "linked_id": "STU068",
+        "active": false,
+        "created_at": {
+            "$date": "2025-02-04T20:32:22Z"
+        }
+    },
+    {
+        "username": "daniel.quinn69@example.com",
+        "password": "$2b$12$xq1qBQrYfNPnSYCy869bOe.mSSNVCMJ4fGd/upJJPPD0Pc5Bnlknm",
+        "name": "Daniel Quinn",
+        "email": "daniel.quinn69@example.com",
+        "role": "student",
+        "linked_id": "STU069",
+        "active": true,
+        "created_at": {
+            "$date": "2026-06-04T12:33:37Z"
+        }
+    },
+    {
+        "username": "sophie.thompson70@example.com",
+        "password": "$2b$12$NP/RySJ9Z2kOJfymfzI82uh1qzyiE.Q5cy.vgKfJw2JE3n8cZuiwe",
+        "name": "Sophie Thompson",
+        "email": "sophie.thompson70@example.com",
+        "role": "student",
+        "linked_id": "STU070",
+        "active": true,
+        "created_at": {
+            "$date": "2024-11-09T04:36:24Z"
+        }
+    },
+    {
+        "username": "conor.patel71@example.com",
+        "password": "$2b$12$.Ddi/NMadlFqvPwjPIAIxeOTnlAGAxlKkfLtY3rLMmX..wKcuzgIq",
+        "name": "Conor Patel",
+        "email": "conor.patel71@example.com",
+        "role": "student",
+        "linked_id": "STU071",
+        "active": true,
+        "created_at": {
+            "$date": "2026-10-20T11:50:33Z"
+        }
+    },
+    {
+        "username": "emma.brown72@example.com",
+        "password": "$2b$12$A3akbI2pjomVGlSy/by6XueGYaatBaZPa9JlZ4doTMeG0AYEnpm7S",
+        "name": "Emma Brown",
+        "email": "emma.brown72@example.com",
+        "role": "student",
+        "linked_id": "STU072",
+        "active": false,
+        "created_at": {
+            "$date": "2025-07-11T02:05:28Z"
+        }
+    },
+    {
+        "username": "sophie.hughes73@example.com",
+        "password": "$2b$12$e3PS4qgb9FYxS7.eqNsh6ur/JPqWYNV2g1PYQuiDgd.0dt2UwC2gG",
+        "name": "Sophie Hughes",
+        "email": "sophie.hughes73@example.com",
+        "role": "student",
+        "linked_id": "STU073",
+        "active": false,
+        "created_at": {
+            "$date": "2026-01-20T02:08:10Z"
+        }
+    },
+    {
+        "username": "orla.wilson74@example.com",
+        "password": "$2b$12$b/e19ntewED2u04uW.XmUelcwsnWYWEGO/IkFeZj/sNfVEafDlYM.",
+        "name": "Orla Wilson",
+        "email": "orla.wilson74@example.com",
+        "role": "student",
+        "linked_id": "STU074",
+        "active": true,
+        "created_at": {
+            "$date": "2025-05-18T09:09:53Z"
+        }
+    },
+    {
+        "username": "niamh.brown75@example.com",
+        "password": "$2b$12$to4VhPK5wTOdYIWGSOOZQOxz0kpbIO0aVTZ/R5sg07xjEgcjoRlTy",
+        "name": "Niamh Brown",
+        "email": "niamh.brown75@example.com",
+        "role": "student",
+        "linked_id": "STU075",
+        "active": true,
+        "created_at": {
+            "$date": "2025-04-21T10:14:06Z"
+        }
+    },
+    {
+        "username": "james.doherty76@example.com",
+        "password": "$2b$12$aAd3iJvQVpUVYuJIVYjbbuc7tDsqF1qHJWw42eGB40T2g0zgCYQdK",
+        "name": "James Doherty",
+        "email": "james.doherty76@example.com",
+        "role": "student",
+        "linked_id": "STU076",
+        "active": true,
+        "created_at": {
+            "$date": "2025-02-05T02:33:21Z"
+        }
+    },
+    {
+        "username": "erin.thompson77@example.com",
+        "password": "$2b$12$v4pVBf7rdKwhaKbdYpdv5eIv3kGgrMOSXKYjvwC0NESxTuvdBMoja",
+        "name": "Erin Thompson",
+        "email": "erin.thompson77@example.com",
+        "role": "student",
+        "linked_id": "STU077",
+        "active": true,
+        "created_at": {
+            "$date": "2025-10-06T09:10:49Z"
+        }
+    },
+    {
+        "username": "priya.thompson78@example.com",
+        "password": "$2b$12$A5pzFqLWVb47zkenEGsvUew2r5KvAWc9TdxLXnV0tygXbedf15Fei",
+        "name": "Priya Thompson",
+        "email": "priya.thompson78@example.com",
+        "role": "student",
+        "linked_id": "STU078",
+        "active": true,
+        "created_at": {
+            "$date": "2025-12-10T17:46:57Z"
+        }
+    },
+    {
+        "username": "sean.campbell79@example.com",
+        "password": "$2b$12$Cbb5KS/A0kCknq33Jv7zsuoL61XzVvhQSXrQFM6QBDrg7QUjaJ99O",
+        "name": "Sean Campbell",
+        "email": "sean.campbell79@example.com",
+        "role": "student",
+        "linked_id": "STU079",
+        "active": true,
+        "created_at": {
+            "$date": "2026-06-09T14:18:52Z"
+        }
+    },
+    {
+        "username": "priya.sharma80@example.com",
+        "password": "$2b$12$l44jGqNFQ0GMbKX7dUYVae0H2eNWC.DojDyiIYyAXBj2zhRCF481W",
+        "name": "Priya Sharma",
+        "email": "priya.sharma80@example.com",
+        "role": "student",
+        "linked_id": "STU080",
+        "active": false,
+        "created_at": {
+            "$date": "2024-12-13T10:26:30Z"
+        }
+    },
+    {
+        "username": "sean.thompson81@example.com",
+        "password": "$2b$12$4HdLVHO3S5v5/4kzmSUFfu17m5TJzCe9N5XNizrAc.U7WfODatV.q",
+        "name": "Sean Thompson",
+        "email": "sean.thompson81@example.com",
+        "role": "student",
+        "linked_id": "STU081",
+        "active": false,
+        "created_at": {
+            "$date": "2025-07-25T07:25:04Z"
+        }
+    },
+    {
+        "username": "aoife.thompson82@example.com",
+        "password": "$2b$12$oLEUP5uWBiVkxjp4UI10zO5pCoycNAxYSRgKws3esL0MYOqlbxEG.",
+        "name": "Aoife Thompson",
+        "email": "aoife.thompson82@example.com",
+        "role": "student",
+        "linked_id": "STU082",
+        "active": true,
+        "created_at": {
+            "$date": "2024-12-07T09:58:13Z"
+        }
+    },
+    {
+        "username": "patrick.oneill83@example.com",
+        "password": "$2b$12$thurhjlp/vT9SrGxrJEyROW4.UP5M55pq6ozQr4l36B/AfgSnZZZG",
+        "name": "Patrick O'Neill",
+        "email": "patrick.oneill83@example.com",
+        "role": "student",
+        "linked_id": "STU083",
+        "active": true,
+        "created_at": {
+            "$date": "2025-03-03T21:32:48Z"
+        }
+    },
+    {
+        "username": "patrick.oneill84@example.com",
+        "password": "$2b$12$G.caKa5bL.ceBBOc3lGm/uMYBxN1iGamvIEtt77BKX8VgPVJZqs/y",
+        "name": "Patrick O'Neill",
+        "email": "patrick.oneill84@example.com",
+        "role": "student",
+        "linked_id": "STU084",
+        "active": true,
+        "created_at": {
+            "$date": "2025-03-19T06:39:40Z"
+        }
+    },
+    {
+        "username": "tomasz.gallagher85@example.com",
+        "password": "$2b$12$m/D2dpH8OhVd.o3c2r..TO5CGqVV9V.YdfOpobTeXJC9NVKupMakS",
+        "name": "Tomasz Gallagher",
+        "email": "tomasz.gallagher85@example.com",
+        "role": "student",
+        "linked_id": "STU085",
+        "active": false,
+        "created_at": {
+            "$date": "2025-03-29T17:11:40Z"
+        }
+    },
+    {
+        "username": "arjun.quinn86@example.com",
+        "password": "$2b$12$6D9co81szqOQdsN3CH/CAuBmeOj6R4ZgyKC0Bozq37UWVqWUN23pi",
+        "name": "Arjun Quinn",
+        "email": "arjun.quinn86@example.com",
+        "role": "student",
+        "linked_id": "STU086",
+        "active": true,
+        "created_at": {
+            "$date": "2024-11-17T10:05:23Z"
+        }
+    },
+    {
+        "username": "daniel.gallagher87@example.com",
+        "password": "$2b$12$O5UePoW6CWFG4dgyUMziM.27iPXh4sGmEaYELpHtfKWzJY0N0xDsO",
+        "name": "Daniel Gallagher",
+        "email": "daniel.gallagher87@example.com",
+        "role": "student",
+        "linked_id": "STU087",
+        "active": true,
+        "created_at": {
+            "$date": "2025-01-11T18:42:46Z"
+        }
+    },
+    {
+        "username": "patrick.mccann88@example.com",
+        "password": "$2b$12$ngwKm3A0H2GlawmEoUVDR.2yl.EfFikBJmEa6vXVoLaH0s.HaTWlO",
+        "name": "Patrick McCann",
+        "email": "patrick.mccann88@example.com",
+        "role": "student",
+        "linked_id": "STU088",
+        "active": true,
+        "created_at": {
+            "$date": "2026-07-31T01:32:33Z"
+        }
+    },
+    {
+        "username": "conor.kelly89@example.com",
+        "password": "$2b$12$Ny/A5B4sEjumtmM0qN/h9OBMX4pf6/rQW7rJKVIpkF3.4mKMNju0e",
+        "name": "Conor Kelly",
+        "email": "conor.kelly89@example.com",
+        "role": "student",
+        "linked_id": "STU089",
+        "active": true,
+        "created_at": {
+            "$date": "2025-11-20T12:09:29Z"
+        }
+    },
+    {
+        "username": "erin.murphy90@example.com",
+        "password": "$2b$12$USo.2RxM0jSraag061fNqOo9kts.pT/0dR9GZ9U8n346PXo5Q9NJm",
+        "name": "Erin Murphy",
+        "email": "erin.murphy90@example.com",
+        "role": "student",
+        "linked_id": "STU090",
+        "active": true,
+        "created_at": {
+            "$date": "2026-02-24T04:52:14Z"
+        }
+    },
+    {
+        "username": "liam.quinn91@example.com",
+        "password": "$2b$12$9oGomVgkwL8nMPxhjGnyLuCX0QU3v9RaJvrGITehMUYdMeSSWgIs.",
+        "name": "Liam Quinn",
+        "email": "liam.quinn91@example.com",
+        "role": "student",
+        "linked_id": "STU091",
+        "active": false,
+        "created_at": {
+            "$date": "2026-06-06T09:05:14Z"
+        }
+    },
+    {
+        "username": "sean.sharma92@example.com",
+        "password": "$2b$12$7PSpzBQiIerEuG3ir5lJ2.SEX2TzCN9h1x/EUqUmvCY6QGPNNfuDS",
+        "name": "Sean Sharma",
+        "email": "sean.sharma92@example.com",
+        "role": "student",
+        "linked_id": "STU092",
+        "active": true,
+        "created_at": {
+            "$date": "2025-03-05T13:50:23Z"
+        }
+    },
+    {
+        "username": "daniel.mccann93@example.com",
+        "password": "$2b$12$.Cdy8btrk8gUrCLER3SJtunlr7kaZgn11SwSS4FGwuQclLREc.A3.",
+        "name": "Daniel McCann",
+        "email": "daniel.mccann93@example.com",
+        "role": "student",
+        "linked_id": "STU093",
+        "active": true,
+        "created_at": {
+            "$date": "2025-11-03T01:53:20Z"
+        }
+    },
+    {
+        "username": "patrick.gallagher94@example.com",
+        "password": "$2b$12$4p8nGxcvSVNzraF3Tz/gwOqsMBq65zEN8zhrlEmSXHzsLjI8eXacG",
+        "name": "Patrick Gallagher",
+        "email": "patrick.gallagher94@example.com",
+        "role": "student",
+        "linked_id": "STU094",
+        "active": false,
+        "created_at": {
+            "$date": "2026-04-11T19:42:17Z"
+        }
+    },
+    {
+        "username": "sean.kelly95@example.com",
+        "password": "$2b$12$kYuDkmy1MoE9zdEpY2wkjuaCpFijG24y/349DGDFTZazNDhTmxmpW",
+        "name": "Sean Kelly",
+        "email": "sean.kelly95@example.com",
+        "role": "student",
+        "linked_id": "STU095",
+        "active": true,
+        "created_at": {
+            "$date": "2024-12-16T03:55:12Z"
+        }
+    },
+    {
+        "username": "fatima.oneill96@example.com",
+        "password": "$2b$12$8qrq7PWPaFqfJipvFNvknuw42lbO31nSBhUiDiUykOhC6677m5ppq",
+        "name": "Fatima O'Neill",
+        "email": "fatima.oneill96@example.com",
+        "role": "student",
+        "linked_id": "STU096",
+        "active": true,
+        "created_at": {
+            "$date": "2026-04-15T02:21:05Z"
+        }
+    },
+    {
+        "username": "orla.sharma97@example.com",
+        "password": "$2b$12$2dufwMM7urJBlFILRK2TP.LuHd0b3panfR4ngXUiKyyaaAQDhngvK",
+        "name": "Orla Sharma",
+        "email": "orla.sharma97@example.com",
+        "role": "student",
+        "linked_id": "STU097",
+        "active": true,
+        "created_at": {
+            "$date": "2026-07-25T01:13:48Z"
+        }
+    },
+    {
+        "username": "arjun.nowak98@example.com",
+        "password": "$2b$12$etFMXZ0f0tZHbeTCpwJu2O4JFnU5rpGw9s0pV8wkgyK/l7tCGA30G",
+        "name": "Arjun Nowak",
+        "email": "arjun.nowak98@example.com",
+        "role": "student",
+        "linked_id": "STU098",
+        "active": true,
+        "created_at": {
+            "$date": "2025-07-24T13:14:01Z"
+        }
+    },
+    {
+        "username": "aoife.hughes99@example.com",
+        "password": "$2b$12$IqrYBiwwS39j77F.6nx8P.4hc7fPVujFUa8WjWIy5f7/KnNmSXraq",
+        "name": "Aoife Hughes",
+        "email": "aoife.hughes99@example.com",
+        "role": "student",
+        "linked_id": "STU099",
+        "active": true,
+        "created_at": {
+            "$date": "2024-10-29T18:17:44Z"
+        }
+    },
+    {
+        "username": "niamh.smith100@example.com",
+        "password": "$2b$12$XCIfaGVyCSRTk6DgTjjQwO4FKKHWKgZGwvw2fpcn996tZzwELJog6",
+        "name": "Niamh Smith",
+        "email": "niamh.smith100@example.com",
+        "role": "student",
+        "linked_id": "STU100",
+        "active": true,
+        "created_at": {
+            "$date": "2026-08-01T07:32:55Z"
+        }
+    },
+    {
+        "username": "jack.smith101@example.com",
+        "password": "$2b$12$Vc/xndJVnW1vITuMzzntB.rzIvfFEJDlVF1Swa4CdH1DM5i5wUT4O",
+        "name": "Jack Smith",
+        "email": "jack.smith101@example.com",
+        "role": "student",
+        "linked_id": "STU101",
+        "active": true,
+        "created_at": {
+            "$date": "2025-07-23T20:19:43Z"
+        }
+    },
+    {
+        "username": "sophie.oneill102@example.com",
+        "password": "$2b$12$UIV6VWXApsvEoQOdLjw95OJ74ySYT7q60MnharQ9FFFGk0zq6WE8a",
+        "name": "Sophie O'Neill",
+        "email": "sophie.oneill102@example.com",
+        "role": "student",
+        "linked_id": "STU102",
+        "active": true,
+        "created_at": {
+            "$date": "2025-07-03T21:06:06Z"
+        }
+    },
+    {
+        "username": "sophie.sharma103@example.com",
+        "password": "$2b$12$Q5osVy8S5qgJB55pjkry8uRdDkGXcdZcSoZD0ka5GeD4zns4cnrrG",
+        "name": "Sophie Sharma",
+        "email": "sophie.sharma103@example.com",
+        "role": "student",
+        "linked_id": "STU103",
+        "active": true,
+        "created_at": {
+            "$date": "2025-05-15T14:25:51Z"
+        }
+    },
+    {
+        "username": "ryan.doherty104@example.com",
+        "password": "$2b$12$DY356AgbmxcmD9kTYv4ayuHgU9cA6dAe8TvP/pbYUxPAoBps2IoT2",
+        "name": "Ryan Doherty",
+        "email": "ryan.doherty104@example.com",
+        "role": "student",
+        "linked_id": "STU104",
+        "active": true,
+        "created_at": {
+            "$date": "2026-02-22T20:29:18Z"
+        }
+    },
+    {
+        "username": "sean.wilson105@example.com",
+        "password": "$2b$12$PjOmSac.aAo0FzBNqXLmcuOQ.BCYR8rSID.86Y9MflYMaPbvIrA6q",
+        "name": "Sean Wilson",
+        "email": "sean.wilson105@example.com",
+        "role": "student",
+        "linked_id": "STU105",
+        "active": true,
+        "created_at": {
+            "$date": "2026-04-26T15:05:49Z"
+        }
+    },
+    {
+        "username": "ciara.nowak106@example.com",
+        "password": "$2b$12$A9/jpO5wkxgU4B.PdRb18el9P82in0SMW6HjWnAXYKOgyeBth2eyK",
+        "name": "Ciara Nowak",
+        "email": "ciara.nowak106@example.com",
+        "role": "student",
+        "linked_id": "STU106",
+        "active": true,
+        "created_at": {
+            "$date": "2026-05-01T01:02:58Z"
+        }
+    },
+    {
+        "username": "daniel.oneill107@example.com",
+        "password": "$2b$12$MPmetwT9J9fdU3gw2j0F2OEL7dSAs1Zw4j8lkt6Qk6unz7wUIT3aa",
+        "name": "Daniel O'Neill",
+        "email": "daniel.oneill107@example.com",
+        "role": "student",
+        "linked_id": "STU107",
+        "active": true,
+        "created_at": {
+            "$date": "2025-09-04T13:37:51Z"
+        }
+    },
+    {
+        "username": "jack.smith108@example.com",
+        "password": "$2b$12$1CZygvVgy0Ok9CkHd5E5rul9fSO7E6ZQBMi07reFOkR9/iMsbAyk2",
+        "name": "Jack Smith",
+        "email": "jack.smith108@example.com",
+        "role": "student",
+        "linked_id": "STU108",
+        "active": true,
+        "created_at": {
+            "$date": "2025-06-22T17:04:05Z"
+        }
+    },
+    {
+        "username": "ryan.nowak109@example.com",
+        "password": "$2b$12$29KubpatBwFr44f/CU4xf.QQxERqPO6AcH88rgivOQkZkMsAJiUT2",
+        "name": "Ryan Nowak",
+        "email": "ryan.nowak109@example.com",
+        "role": "student",
+        "linked_id": "STU109",
+        "active": true,
+        "created_at": {
+            "$date": "2026-04-01T00:13:41Z"
+        }
+    },
+    {
+        "username": "arjun.wilson110@example.com",
+        "password": "$2b$12$IxXzlBtSo2WFuoHd7vk7Wup6zfBRnY5ziUUfLOoFGiLVfCJExTb1m",
+        "name": "Arjun Wilson",
+        "email": "arjun.wilson110@example.com",
+        "role": "student",
+        "linked_id": "STU110",
+        "active": true,
+        "created_at": {
+            "$date": "2025-10-31T20:23:03Z"
+        }
+    },
+    {
+        "username": "patrick.campbell111@example.com",
+        "password": "$2b$12$w/xAylpjvDGKd.OaXLblVu7ZuSVzoFAYmCdo9ojFRA5ip0hS17b9.",
+        "name": "Patrick Campbell",
+        "email": "patrick.campbell111@example.com",
+        "role": "student",
+        "linked_id": "STU111",
+        "active": true,
+        "created_at": {
+            "$date": "2025-05-15T09:08:13Z"
+        }
+    },
+    {
+        "username": "ryan.campbell112@example.com",
+        "password": "$2b$12$RjbyHt3YCddwlfhTrGFgR.KfxDhgaPrz0PvBK3Vr6hwkV6rNNYIeu",
+        "name": "Ryan Campbell",
+        "email": "ryan.campbell112@example.com",
+        "role": "student",
+        "linked_id": "STU112",
+        "active": true,
+        "created_at": {
+            "$date": "2026-01-06T11:06:34Z"
+        }
+    },
+    {
+        "username": "priya.oneill113@example.com",
+        "password": "$2b$12$nSPRsT8WhDB6DbvK.DbfjuLg5nMI3xN44mdvlxmDJpMtiWJYYtbwa",
+        "name": "Priya O'Neill",
+        "email": "priya.oneill113@example.com",
+        "role": "student",
+        "linked_id": "STU113",
+        "active": true,
+        "created_at": {
+            "$date": "2026-09-14T10:23:48Z"
+        }
+    },
+    {
+        "username": "conor.campbell114@example.com",
+        "password": "$2b$12$3h/34xSOOWOPhM141ALdUeyH7R0w.XiAZGgaN1aguIVI57dSwsDE6",
+        "name": "Conor Campbell",
+        "email": "conor.campbell114@example.com",
+        "role": "student",
+        "linked_id": "STU114",
+        "active": true,
+        "created_at": {
+            "$date": "2025-11-22T15:59:58Z"
+        }
+    },
+    {
+        "username": "jack.thompson115@example.com",
+        "password": "$2b$12$MLtz6UwosA3k0SPeNoEaDeM7MIRp3P5DAC3D.c8WjnWiX2tNXPeJC",
+        "name": "Jack Thompson",
+        "email": "jack.thompson115@example.com",
+        "role": "student",
+        "linked_id": "STU115",
+        "active": true,
+        "created_at": {
+            "$date": "2025-04-09T01:57:31Z"
+        }
+    },
+    {
+        "username": "james.mccann116@example.com",
+        "password": "$2b$12$k8eoX6Ny8Nf.Kf7Z8uOrZOYNsBf18sBDuJ3px5iuHCvIrhuvtAFV6",
+        "name": "James McCann",
+        "email": "james.mccann116@example.com",
+        "role": "student",
+        "linked_id": "STU116",
+        "active": false,
+        "created_at": {
+            "$date": "2025-09-04T17:54:57Z"
+        }
+    },
+    {
+        "username": "orla.hughes117@example.com",
+        "password": "$2b$12$HfTV4rJNMYZNzlTJYF2HLuA9ZUx8BRKKSBpPzeRetTRve0FS1kzpO",
+        "name": "Orla Hughes",
+        "email": "orla.hughes117@example.com",
+        "role": "student",
+        "linked_id": "STU117",
+        "active": true,
+        "created_at": {
+            "$date": "2026-03-19T22:25:33Z"
+        }
+    },
+    {
+        "username": "aoife.doherty118@example.com",
+        "password": "$2b$12$OxlGAzxuc2URSNMYneASB.T2doLA/mWhB9TZDhb27Z3BBE4pfs/NO",
+        "name": "Aoife Doherty",
+        "email": "aoife.doherty118@example.com",
+        "role": "student",
+        "linked_id": "STU118",
+        "active": true,
+        "created_at": {
+            "$date": "2025-07-08T16:30:37Z"
+        }
+    },
+    {
+        "username": "arjun.brown119@example.com",
+        "password": "$2b$12$oBQOZSNdLGPA9M8uaD2rueifjlaadNhpXXAjNZVYIGEEEVUlSYKim",
+        "name": "Arjun Brown",
+        "email": "arjun.brown119@example.com",
+        "role": "student",
+        "linked_id": "STU119",
+        "active": true,
+        "created_at": {
+            "$date": "2026-02-06T06:35:52Z"
+        }
+    },
+    {
+        "username": "arjun.gallagher120@example.com",
+        "password": "$2b$12$vh6whmw6dRtIregN5IebQerxB5seyjNlw4hB8cyCDKpuJpPf8n.Hy",
+        "name": "Arjun Gallagher",
+        "email": "arjun.gallagher120@example.com",
+        "role": "student",
+        "linked_id": "STU120",
+        "active": true,
+        "created_at": {
+            "$date": "2025-07-31T20:28:40Z"
+        }
+    },
+    {
+        "username": "liam.patel121@example.com",
+        "password": "$2b$12$QKfisxpKNMDExvjQASTOyemmmGIzhKGajh4YL3f0ScIPv9lqt1YZG",
+        "name": "Liam Patel",
+        "email": "liam.patel121@example.com",
+        "role": "student",
+        "linked_id": "STU121",
+        "active": true,
+        "created_at": {
+            "$date": "2025-08-25T13:53:10Z"
+        }
+    },
+    {
+        "username": "orla.sharma122@example.com",
+        "password": "$2b$12$bEUtVpwFSlbyz2f3GJkWC.7cIb1g69fS0ufWGjW1wZ9BFNYSw5wfm",
+        "name": "Orla Sharma",
+        "email": "orla.sharma122@example.com",
+        "role": "student",
+        "linked_id": "STU122",
+        "active": true,
+        "created_at": {
+            "$date": "2025-11-30T11:17:24Z"
+        }
+    },
+    {
+        "username": "fatima.patel123@example.com",
+        "password": "$2b$12$xxZnsstuynOIsy2qx7bqX.iAHPRvPJtUzVha8mB5JEwos6ithT/Cq",
+        "name": "Fatima Patel",
+        "email": "fatima.patel123@example.com",
+        "role": "student",
+        "linked_id": "STU123",
+        "active": true,
+        "created_at": {
+            "$date": "2025-10-22T06:04:10Z"
+        }
+    },
+    {
+        "username": "tomasz.sharma124@example.com",
+        "password": "$2b$12$68306efhnkibQ3077rur5e0041/1xrq2O.qjj/OrFAKU4jobBgQ1W",
+        "name": "Tomasz Sharma",
+        "email": "tomasz.sharma124@example.com",
+        "role": "student",
+        "linked_id": "STU124",
+        "active": true,
+        "created_at": {
+            "$date": "2026-07-06T04:21:29Z"
+        }
+    },
+    {
+        "username": "liam.gallagher125@example.com",
+        "password": "$2b$12$yF6Pzn1LPxcbewwGXCLpp.tH.qDlhr0sTJeZCV5Hg0WSYKju2hg.e",
+        "name": "Liam Gallagher",
+        "email": "liam.gallagher125@example.com",
+        "role": "student",
+        "linked_id": "STU125",
+        "active": true,
+        "created_at": {
+            "$date": "2024-10-28T22:37:51Z"
+        }
+    }
+]

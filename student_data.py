@@ -75,8 +75,8 @@ def generate_data():
 
     student_list = []   # space for student list
 
-    # to create 150 students
-    for i in range(150):
+    # to create 125 students
+    for i in range(125):
         # picking name, town, campus etc again for every new student
         first = random.choice(first_names)
         last = random.choice(last_names)

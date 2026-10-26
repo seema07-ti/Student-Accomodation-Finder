@@ -49,8 +49,15 @@ def generate_data(students):
             "created_at": mongo_date(datetime(2024, 9, 1))
         })
 
-    # one login for every student, using their email as username
+    # one login for each student, using their email as username
+    # we want 125 users in total (2 admins + 123 students),
+    # so 2 inactive students don't get a login (they never set up their account)
+    skipped = 0
     for student in students:
+        if student["account_status"] == "inactive" and skipped < 2:
+            skipped = skipped + 1
+            continue
+
         user_list.append({
             "username": student["email"],
             "password": hash_password("Password123!"),

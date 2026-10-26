@@ -71,8 +71,8 @@ def generate_data():
 
     property_list = []   # space for property list
 
-    # to create 100 properties
-    for i in range(100):
+    # to create 125 properties
+    for i in range(125):
         # picking campus, type, bills and landlord again for every new property
         location = random.choice(campuses)
         prop_type = random.choice(property_types)
